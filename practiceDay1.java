@@ -48,7 +48,7 @@ class practiceDay1 {
         int num = 5;
         for (int i = 1; i <= 10; i++) {
             int sum = num * i;
-            System.out.println("multipliation " + sum);
+            System.out.println("multipliation  of code " + sum);
 
 
             String str="sanskruti";
